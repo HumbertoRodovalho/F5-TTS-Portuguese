@@ -1,0 +1,25 @@
+# Ignorar dados pesados
+data/
+raw/
+wavs/
+wavs_processed/
+*.wav
+*.mp3
+
+# Ignorar checkpoints do modelo (são muito grandes)
+ckpts/
+*.pt
+*.pth
+*.safetensors
+
+# Ignorar pastas de sistema/python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+wandb/
+outputs/
+logs/
+
+# Ignorar o clone do F5-TTS original (pois o usuário vai baixar o dele)
+F5-TTS/

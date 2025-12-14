@@ -1,0 +1,12 @@
+bitsandbytes
+accelerate
+cached_path
+num2words
+pydub
+soundfile
+librosa
+datasets
+scipy
+transformers
+hydra-core
+wandb
