@@ -4,6 +4,10 @@ The goal is to make the training process reproducible, modular, and adaptable fo
  *⚠️ Status: Training in progress — early checkpoints and logs available.*
 
 📌 **Motivation**
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat&logo=python&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-T4%20Optimized-green?style=flat&logo=nvidia&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+![Language](https://img.shields.io/badge/Language-Portuguese%20(BR)-green?style=flat&logo=google-translate&logoColor=white)
 
 The recent versions of F5-TTS migrated to a Hydra-based configuration system, which introduced flexibility but also significantly raised the entry barrier for new languages.
 
