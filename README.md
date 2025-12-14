@@ -61,3 +61,14 @@ This project aims to:
 - To test the trained model:
 
       python scripts/inference.py --ckpt_path ckpts/model_last.pt --ref_audio ref.wav --text "Olá mundo!"
+
+
+🤝 **Acknowledgements**
+
+This project is an unofficial adaptation developed by **[Humberto Rodovalho](https://github.com/HumbertoRodovalho)**, focused on optimizing the architecture for Portuguese (PT-BR) and low-resource hardware.
+
+We strictly follow the open-source license and acknowledge the original work of **F5-TTS**:
+
+* **Original Repository:** [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS)
+* **Paper:** [F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching](https://arxiv.org/abs/2410.06885)
+* **Original Authors:** Yushen Chen, Zhikang Niu, Ziyang Ma, Keqi Deng, Chunhui Wang, Jian Zhao, Kai Yu, Xie Chen.
